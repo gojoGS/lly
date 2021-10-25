@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<questions>
+    <question>
+        <question>Ki volt az USA első elnöke?</question>
+        <answers>
+            <entry>
+                <key>B</key>
+                <value>Tonald Dump</value>
+            </entry>
+            <entry>
+                <key>C</key>
+                <value>Alma Obama</value>
+            </entry>
+            <entry>
+                <key>A</key>
+                <value>Donald Trump</value>
+            </entry>
+            <entry>
+                <key>D</key>
+                <value>George Washington</value>
+            </entry>
+        </answers>
+        <answerFrequency>
+            <entry>
+                <key>B</key>
+                <value>0.27706524073937855</value>
+            </entry>
+            <entry>
+                <key>C</key>
+                <value>0.08567952174700291</value>
+            </entry>
+            <entry>
+                <key>A</key>
+                <value>0.08352079009049192</value>
+            </entry>
+            <entry>
+                <key>D</key>
+                <value>0.5537344474231266</value>
+            </entry>
+        </answerFrequency>
+        <correctAnswerId>D</correctAnswerId>
+    </question>
+</questions>
